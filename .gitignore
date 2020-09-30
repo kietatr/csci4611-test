@@ -25,16 +25,16 @@ Session.vim
 # structure from the start, but we do not want to add anything inside them to git.
 # So, we ignore all files inside the directories except for a README.
 
-bin/*
-!bin/README.md
+#bin/*
+#!bin/README.md
 
-include/*
-!include/README.md
+#include/*
+#!include/README.md
 
-lib/*
-!lib/README.md
+#lib/*
+#!lib/README.md
 
-share/*
-!share/README.md
+#share/*
+#!share/README.md
 
-build
+#build
