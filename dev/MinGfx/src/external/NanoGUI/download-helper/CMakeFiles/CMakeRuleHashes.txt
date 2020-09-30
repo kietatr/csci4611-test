@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+b36f1c460af8ddeacd6689178ae682a1 CMakeFiles/NanoGUI
+f011b7717c8590296baf71a8934fea7e CMakeFiles/NanoGUI-complete
+8b248f1222df52f14a6460902aad8759 NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-build
+7c4b4690b230a7b7ea610a1d8ad5d467 NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-configure
+6a91139dc920482df467c6b43c74b60c NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-download
+f08b6deaed509b0224dd62a303347eef NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-install
+9bb826ca6f383a7bcfbee090bf9ed3aa NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-mkdir
+682b88435d1495eb14f1bf41a1925107 NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-patch
+8d7a3099c09361b59b0ce9a175bf6f77 NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-test
+28dffc08ae16517a51346a604de10c37 NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-update

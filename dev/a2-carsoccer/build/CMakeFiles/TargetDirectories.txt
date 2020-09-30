@@ -1,0 +1,7 @@
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/a2-carsoccer/build/CMakeFiles/install/strip.dir
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/a2-carsoccer/build/CMakeFiles/install/local.dir
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/a2-carsoccer/build/CMakeFiles/install.dir
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/a2-carsoccer/build/CMakeFiles/list_install_components.dir
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/a2-carsoccer/build/CMakeFiles/rebuild_cache.dir
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/a2-carsoccer/build/CMakeFiles/edit_cache.dir
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/a2-carsoccer/build/CMakeFiles/a2-carsoccer.dir

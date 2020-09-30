@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/CMakeFiles/NanoGUI"
+		},
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/CMakeFiles/NanoGUI.rule"
+		},
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/CMakeFiles/NanoGUI-complete.rule"
+		},
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-install.rule"
+		},
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-mkdir.rule"
+		},
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-download.rule"
+		},
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-update.rule"
+		},
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-patch.rule"
+		},
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-configure.rule"
+		},
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-build.rule"
+		},
+		{
+			"file" : "/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"NanoGUI"
+		],
+		"name" : "NanoGUI"
+	}
+}

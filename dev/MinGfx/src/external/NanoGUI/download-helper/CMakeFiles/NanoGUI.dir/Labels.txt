@@ -1,0 +1,14 @@
+# Target labels
+ NanoGUI
+# Source files and their labels
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/CMakeFiles/NanoGUI
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/CMakeFiles/NanoGUI.rule
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/CMakeFiles/NanoGUI-complete.rule
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-install.rule
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-mkdir.rule
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-download.rule
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-update.rule
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-patch.rule
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-configure.rule
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-build.rule
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/NanoGUI-prefix/src/NanoGUI-stamp/NanoGUI-test.rule

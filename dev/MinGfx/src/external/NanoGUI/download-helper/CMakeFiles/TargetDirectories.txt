@@ -1,0 +1,3 @@
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/CMakeFiles/rebuild_cache.dir
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/CMakeFiles/edit_cache.dir
+/home/tran0563/Documents/CSCI-4611-F20/repo-user0100/dev/MinGfx/src/external/NanoGUI/download-helper/CMakeFiles/NanoGUI.dir
